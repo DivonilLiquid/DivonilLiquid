@@ -1,4 +1,4 @@
-<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width="1024" height="300"></img>
+<img src="https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" width="1024" height="400"></img>
 ### Little info about me 👋
 
 
