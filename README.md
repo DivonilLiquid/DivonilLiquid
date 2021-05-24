@@ -4,13 +4,13 @@
 
 
 - 💁🏻 I’m currently ... An undergraduate Computer Science Student 
-- 🌱 I’m currently learning ... MERN Stack Development 
-- 👯 I’m looking to collaborate on ... Web Projects
-- 🤔 I’m looking for help with ... Software Developers
+- 💻 I’m currently learning ... MERN Stack Development 
+- 👀 I’m looking to collaborate on ... Web Projects
+- ✌🏻 I’m looking for help with ... Software Developers
 - 💬 Ask me about ... Advanced Data Structures & Algorithms
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/madhur-sde/)
-- 😄 Pronouns: ... He/Him
-- ⚡ <B>Fun fact: ... Have survived another day in 2021
+- 👨🏻‍💻 Pronouns: ... He/Him
+- ⚡ <B>Fun fact: ... Have survived another day in 2021 👇🏻
  <img src="https://i.pinimg.com/originals/1f/cb/2a/1fcb2af4376fe78b6d82197bd1fdbff6.gif" width="1024" height="350"></img>
 
 - Tech Stack:
