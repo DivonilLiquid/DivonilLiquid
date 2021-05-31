@@ -15,10 +15,8 @@
 
 - Tech Stack:
   <p float="left">
-    <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" width="150"/>
-    <img src="https://www.searchpng.com/wp-content/uploads/2019/02/Bootstrap-Logo-PNG.png" width="55"/>
-    <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" width="55"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="75"/>
     <img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" width="200"/>
+    <img src="https://i.pinimg.com/736x/a2/dc/32/a2dc3249364449a49f01a6275d277b8c.jpg" width="55"/>
+    <img src="https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png" width="55"/>
   </p>
-
-
